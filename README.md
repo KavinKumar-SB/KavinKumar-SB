@@ -13,11 +13,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
-
 <div align="center">
+ Motivated and disciplined learner with strong analytical thinking, structured study habits, and a good foundation in computer science concepts. Experienced in organizing academic content, solving technical problems, and continuously improving understanding through active inquiry.
 
- **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
- Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
 
 </div>  
 
