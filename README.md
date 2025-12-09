@@ -14,7 +14,7 @@
 
 </div>
 <div align="center">
- **Motivated and disciplined learner** with strong analytical thinking, structured study habits, and a good foundation in computer science concepts. Experienced in organizing academic content, solving technical problems, and continuously improving understanding through active inquiry.
+ *Motivated and disciplined learner* with strong analytical thinking, structured study habits, and a good foundation in computer science concepts. Experienced in organizing academic content, solving technical problems, and continuously improving understanding through active inquiry.
 
 
 </div>  
