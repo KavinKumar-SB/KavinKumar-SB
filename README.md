@@ -138,9 +138,6 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 | **CodeForces** | 136 | 969 |
 | **GeeksForGeeks** | 65+ | - |
 
-###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
 
 ---
 
