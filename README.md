@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=https://capsule-render.vercel.app/api?type=blur&height=400&color=AF38EB&text=Kavin%20Kumar%20S&descAlign=50&descAlignY=70&fontAlignY=50&textBg=false&fontAlign=50&section=footer&reversal=true&desc=FULL%20-%20STACK%20DEVLOPER&descSize=35&fontSize=95&fontColor=800080 />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=AF38EB&text=Kavin%20Kumar%20S&descAlign=50&descAlignY=70&fontAlignY=50&textBg=false&fontAlign=50&section=footer&reversal=true&desc=FULL%20-%20STACK%20DEVLOPER&descSize=35&fontSize=95&fontColor=800080" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
