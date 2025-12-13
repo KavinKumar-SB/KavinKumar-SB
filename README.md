@@ -102,7 +102,7 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 8 | - |
-| **CodeChef** | 567 |1106  |
+| **CodeChef** | 438 |1006  |
 | **CodeForces** | - |  -|
 | **GeeksForGeeks** | - | - |
 
