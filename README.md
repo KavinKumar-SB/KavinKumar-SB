@@ -101,10 +101,10 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 8 | - |
+| **CodeChef** | 567 |1106  |
+| **CodeForces** | - |  -|
+| **GeeksForGeeks** | - | - |
 
 
 ---
