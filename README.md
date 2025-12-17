@@ -120,22 +120,22 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabariyuhendh&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KavinKumar-SB&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabariyuhendh&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KavinKumar-SB&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
 
 </div>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KavinKumar-SB/KavinKumar-SB/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KavinKumar-SB/KavinKumar-SB/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KavinKumar-SB/KavinKumar-SB/output/github-snake.svg" />
 </picture>
 
 </div>  
@@ -146,7 +146,7 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sabariyuhendh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=KavinKumar-SB&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -163,9 +163,9 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/sabariyuhendh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/KavinKumar-SB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:skavinkumar8009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
